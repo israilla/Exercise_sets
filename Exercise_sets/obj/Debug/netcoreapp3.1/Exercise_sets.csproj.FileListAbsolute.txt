@@ -1,0 +1,11 @@
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.exe
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.deps.json
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.runtimeconfig.json
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.runtimeconfig.dev.json
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.dll
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\bin\Debug\netcoreapp3.1\Exercise_sets.pdb
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\obj\Debug\netcoreapp3.1\Exercise_sets.csprojAssemblyReference.cache
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\obj\Debug\netcoreapp3.1\Exercise_sets.AssemblyInfoInputs.cache
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\obj\Debug\netcoreapp3.1\Exercise_sets.AssemblyInfo.cs
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\obj\Debug\netcoreapp3.1\Exercise_sets.dll
+C:\Users\Israilla\source\repos\Exercise_sets\Exercise_sets\obj\Debug\netcoreapp3.1\Exercise_sets.pdb
